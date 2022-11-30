@@ -1,0 +1,6 @@
+npm install -g nodemon
+npm install sequelize --save
+npm install sequelize --save mysql2
+npm install handlebars --save
+npm install --save express -handlebars
+npm install --save body-parser
